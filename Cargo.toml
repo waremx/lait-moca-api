@@ -4,3 +4,8 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+axum = "0.8.9"
+chrono = "0.4.45"
+serde = "1.0.228"
+tokio = "1.52.3"
+uuid = "1.23.3"
